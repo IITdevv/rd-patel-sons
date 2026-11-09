@@ -617,3 +617,5 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
+/* GitHub Pages redeploy trigger: Rakhiyal location correction. */
