@@ -10,7 +10,7 @@ const translations = {
     nav_buyers: "Buyers",
     nav_contact: "Contact",
 
-    hero_eyebrow: "Vanoti · Near Rakhiyal–Dakor · Kheda District, Gujarat · Est. 1950",
+    hero_eyebrow: "Rakhiyal · Near Rakhiyal–Dakor · Kheda District, Gujarat · Est. 1950",
     hero_brand: "R D Patel &amp; Sons",
     hero_headline: "Seasonally Calibrated Tobacco for Consistent Bidi Production",
     hero_lede: "Farmer-linked sourcing in the Kheda–Anand belt, in-house processing and grading, custom mixture development, and scheduled supply across India — guided by four generations of practical judgment.",
@@ -46,7 +46,7 @@ const translations = {
     tl4_year: "Today",
     tl4_title: "Dev &amp; Hari",
     tl4_body: "Carrying the same sourcing, processing and blending into the digital era.",
-    tl_photo_cap: "Kanubhai Ranchhodbhai Patel, with his wife, at home in Vanoti.",
+    tl_photo_cap: "Kanubhai Ranchhodbhai Patel, with his wife, at home in Rakhiyal.",
 
     sourcing_eyebrow: "Where It Comes From",
     sourcing_title: "Two Soils, One Signature Blend",
@@ -69,7 +69,7 @@ const translations = {
     pillar3_title: "We procure at harvest",
     pillar3_body: "We collect the tobacco directly after harvest, so our farmers never have to invest in their own storage.",
     pillar4_title: "Factory and godowns, together",
-    pillar4_body: "Our processing factory sits alongside our own godowns in Vanoti — harvested tobacco moves straight from collection into storage and processing.",
+    pillar4_body: "Our processing factory sits alongside our own godowns in Rakhiyal — harvested tobacco moves straight from collection into storage and processing.",
 
     processing_eyebrow: "From Raw Leaf to Separated Grades",
     processing_title: "One Process, Four Outputs",
@@ -128,7 +128,7 @@ const translations = {
     contact_title: "Let's Talk Tobacco",
     contact_body: "Whether you're a bidi manufacturer, a plain tobacco trader looking for a reliable seasonal supplier, or a grower in the Kheda belt — we'd like to hear from you.",
     contact_location_label: "Factory & Godown",
-    contact_location_value: "NH47, Vanoti, near Rakhiyal–Dakor, Kheda District, Gujarat 388230",
+    contact_location_value: "NH47, Rakhiyal, near Rakhiyal–Dakor, Kheda District, Gujarat 388230",
     contact_phone_label: "Phone / WhatsApp",
     contact_email_label: "Email",
     contact_whatsapp: "Message on WhatsApp",
@@ -148,7 +148,7 @@ const translations = {
     nav_buyers: "ग्राहक",
     nav_contact: "संपर्क",
 
-    hero_eyebrow: "वनोती · राखियाल–डाकोर के निकट · जिला खेड़ा, गुजरात · स्थापना 1950",
+    hero_eyebrow: "रखियाल · राखियाल–डाकोर के निकट · जिला खेड़ा, गुजरात · स्थापना 1950",
     hero_brand: "आर डी पटेल एंड संस",
     hero_headline: "बीड़ी उत्पादन में निरंतरता के लिए, मौसम के अनुसार संतुलित तम्बाकू",
     hero_lede: "खेड़ा–आणंद क्षेत्र में किसानों से सीधा जुड़ाव, अपनी फैक्ट्री में प्रसंस्करण व ग्रेडिंग, ग्राहक की ज़रूरत अनुसार मिश्रण, और भारत भर में तय शेड्यूल पर आपूर्ति — चार पीढ़ियों के व्यावहारिक अनुभव के साथ।",
@@ -184,7 +184,7 @@ const translations = {
     tl4_year: "आज",
     tl4_title: "देव और हरि",
     tl4_body: "वही स्रोत, वही प्रसंस्करण, वही मिश्रण-कला — अब डिजिटल युग में आगे बढ़ रही है।",
-    tl_photo_cap: "कनुभाई रणछोड़भाई पटेल, अपनी पत्नी के साथ, वनोती स्थित घर में।",
+    tl_photo_cap: "कनुभाई रणछोड़भाई पटेल, अपनी पत्नी के साथ, रखियाल स्थित घर में।",
 
     sourcing_eyebrow: "स्रोत कहाँ से",
     sourcing_title: "दो मिट्टियाँ, एक खास मिश्रण",
@@ -207,7 +207,7 @@ const translations = {
     pillar3_title: "हम फसल कटाई पर खरीद लेते हैं",
     pillar3_body: "हम कटाई के तुरंत बाद तम्बाकू खरीद लेते हैं, जिससे हमारे किसानों को अपने भंडारण में निवेश नहीं करना पड़ता।",
     pillar4_title: "फैक्ट्री और गोदाम, साथ-साथ",
-    pillar4_body: "हमारी प्रसंस्करण फैक्ट्री वनोती में हमारे अपने गोदामों के साथ ही स्थित है — तम्बाकू सीधे संग्रहण से भंडारण और प्रसंस्करण तक पहुँचता है।",
+    pillar4_body: "हमारी प्रसंस्करण फैक्ट्री रखियाल में हमारे अपने गोदामों के साथ ही स्थित है — तम्बाकू सीधे संग्रहण से भंडारण और प्रसंस्करण तक पहुँचता है।",
 
     processing_eyebrow: "कच्ची पत्ती से अलग-अलग ग्रेड तक",
     processing_title: "एक प्रक्रिया, चार उत्पाद",
@@ -266,7 +266,7 @@ const translations = {
     contact_title: "आइए तम्बाकू की बात करें",
     contact_body: "चाहे आप बीड़ी निर्माता हों, सादा तम्बाकू व्यापारी जो एक भरोसेमंद मौसमी आपूर्तिकर्ता ढूँढ रहे हों, या खेड़ा क्षेत्र के किसान — हमें आपसे सुनना अच्छा लगेगा।",
     contact_location_label: "फैक्ट्री व गोदाम",
-    contact_location_value: "एनएच47, वनोती, राखियाल–डाकोर के निकट, जिला खेड़ा, गुजरात 388230",
+    contact_location_value: "एनएच47, रखियाल, राखियाल–डाकोर के निकट, जिला खेड़ा, गुजरात 388230",
     contact_phone_label: "फ़ोन / व्हाट्सऐप",
     contact_email_label: "ईमेल",
     contact_whatsapp: "व्हाट्सऐप पर संदेश भेजें",
@@ -286,7 +286,7 @@ const translations = {
     nav_buyers: "ગ્રાહકો",
     nav_contact: "સંપર્ક",
 
-    hero_eyebrow: "વણોતી · રાખિયાલ–ડાકોર નજીક · જિલ્લો ખેડા, ગુજરાત · સ્થાપના 1950",
+    hero_eyebrow: "રાખિયાલ · રાખિયાલ–ડાકોર નજીક · જિલ્લો ખેડા, ગુજરાત · સ્થાપના 1950",
     hero_brand: "આર ડી પટેલ એન્ડ સન્સ",
     hero_headline: "બીડી ઉત્પાદનમાં સાતત્ય માટે, ઋતુ પ્રમાણે સંતુલિત તમાકુ",
     hero_lede: "ખેડા–આણંદ પટ્ટામાં ખેડૂતો સાથે સીધો સંબંધ, પોતાની ફેક્ટરીમાં પ્રક્રિયા અને ગ્રેડિંગ, ગ્રાહકની જરૂરિયાત મુજબ મિશ્રણ, અને સમગ્ર ભારતમાં નિયત સમયપત્રક પર પુરવઠો — ચાર પેઢીના વ્યવહારુ અનુભવ સાથે.",
@@ -322,7 +322,7 @@ const translations = {
     tl4_year: "આજે",
     tl4_title: "દેવ અને હરિ",
     tl4_body: "એ જ સ્ત્રોત, એ જ પ્રક્રિયા, એ જ મિશ્રણ-કલા — હવે ડિજિટલ યુગમાં આગળ ધપાવી રહ્યા છીએ.",
-    tl_photo_cap: "કનુભાઈ રણછોડભાઈ પટેલ, તેમની પત્ની સાથે, વણોતી સ્થિત ઘરે.",
+    tl_photo_cap: "કનુભાઈ રણછોડભાઈ પટેલ, તેમની પત્ની સાથે, રાખિયાલ સ્થિત ઘરે.",
 
     sourcing_eyebrow: "ક્યાંથી આવે છે",
     sourcing_title: "બે માટી, એક ખાસ મિશ્રણ",
@@ -345,7 +345,7 @@ const translations = {
     pillar3_title: "અમે લણણી વખતે ખરીદી કરીએ છીએ",
     pillar3_body: "અમે લણણી પછી તરત જ તમાકુ એકત્રિત કરીએ છીએ, જેથી અમારા ખેડૂતોને પોતાના સંગ્રહમાં રોકાણ કરવોની જરૂર ન પડે.",
     pillar4_title: "ફેક્ટરી અને ગોડાઉન, સાથે",
-    pillar4_body: "અમારી પ્રક્રિયા ફેક્ટરી વણોતીમાં અમારા પોતાના ગોડાઉનની સાથે જ આવેલી છે — લણેલો તમાકુ સીધો સંગ્રહથી ભંડારણ અને પ્રક્રિયા સુધી પહોંચે છે.",
+    pillar4_body: "અમારી પ્રક્રિયા ફેક્ટરી રાખિયાલમાં અમારા પોતાના ગોડાઉનની સાથે જ આવેલી છે — લણેલો તમાકુ સીધો સંગ્રહથી ભંડારણ અને પ્રક્રિયા સુધી પહોંચે છે.",
 
     processing_eyebrow: "કાચી પત્તીથી અલગ ગ્રેડ સુધી",
     processing_title: "એક પ્રક્રિયા, ચાર ઉત્પાદનો",
@@ -404,7 +404,7 @@ const translations = {
     contact_title: "ચાલો તમાકુ વિશે વાત કરીએ",
     contact_body: "તમે બીડી ઉત્પાદક હો, ભરોસાપાત્ર ઋતુ-આધારિત સપ્લાયર શોધી રહેલા સાદા તમાકુના વેપારી હો, અથવા ખેડા પટ્ટાના ખેડૂત હો — અમને તમારી પાસેથી સાંભળવું ગમશે.",
     contact_location_label: "ફેક્ટરી અને ગોડાઉન",
-    contact_location_value: "એનએચ47, વણોતી, રાખિયાલ–ડાકોર નજીક, જિલ્લો ખેડા, ગુજરાત 388230",
+    contact_location_value: "એનએચ47, રાખિયાલ, રાખિયાલ–ડાકોર નજીક, જિલ્લો ખેડા, ગુજરાત 388230",
     contact_phone_label: "ફોન / વોટ્સએપ",
     contact_email_label: "ઈમેલ",
     contact_whatsapp: "વોટ્સએપ પર સંદેશ મોકલો",
