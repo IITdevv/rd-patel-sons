@@ -980,3 +980,13 @@ footer.site small { color: #c9b48f; font-size: .78rem; }
   .lang-btn { padding: 5px 8px; }
   .nav-toggle-btn { width: 36px; }
 }
+
+
+/* Solid footer version of the business badge */
+.footer-logo {
+  width: 76px;
+  height: 76px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex: 0 0 auto;
+}
